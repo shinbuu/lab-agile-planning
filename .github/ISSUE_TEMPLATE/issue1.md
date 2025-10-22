@@ -1,12 +1,3 @@
----
-name: issue1
-about: Client-Side Data Encryption
-title: ''
-labels: ''
-assignees: ''
-
----
-
 # Client-Side Data Encryption
 
 **As a** data owner  
