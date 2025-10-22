@@ -1,11 +1,4 @@
----
-name: User Story
-about: Загрузка и шифрование данных на клиенте
-title: ''
-labels: ''
-assignees: ''
 
----
 
 **As a** data owner  
 **I need** to encrypt my local data using homomorphic encryption before sending it to the cloud  
