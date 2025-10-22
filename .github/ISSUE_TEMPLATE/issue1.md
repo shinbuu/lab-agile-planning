@@ -1,9 +1,5 @@
 ---
-name: issue1
-about: " Loading and encrypting data on the client"
-title: ''
-labels: ''
-assignees: ''
+
 
 ---
 
