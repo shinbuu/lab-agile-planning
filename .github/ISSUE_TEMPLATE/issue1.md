@@ -1,6 +1,4 @@
-## 🧩 USER STORIES 
-
----
+## Loading and encrypting data on the client
 
 ### 
 **As a** data owner  
